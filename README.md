@@ -9,7 +9,8 @@ Reference materials :
 Reference Blogs :
 1) [Object priority detection using sliding windows](https://towardsdatascience.com/detecting-vehicles-using-machine-learning-and-computer-vision-e319ee149e10)
 
-o get access to Amazon's Product Advertising API, you need to follow these steps:
+
+To get access to Amazon's Product Advertising API, you need to follow these steps:
 
 Sign up for an Amazon Associates account: Go to the Amazon Associates website (https://affiliate-program.amazon.com/) and sign up for a new account. This account will be used to obtain the API keys required for accessing the Product Advertising API.
 
