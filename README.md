@@ -6,5 +6,5 @@ Reference materials :
 
 
 Reference Blogs :
-1) [Object priority detection using] (https://towardsdatascience.com/detecting-vehicles-using-machine-learning-and-computer-vision-e319ee149e10)
+1) [Object priority detection using](https://towardsdatascience.com/detecting-vehicles-using-machine-learning-and-computer-vision-e319ee149e10)
 
